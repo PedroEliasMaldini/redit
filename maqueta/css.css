@@ -1,0 +1,93 @@
+.card {
+    background-color: #e31d6b;
+    color: white;
+    padding: 20px;
+}
+
+h5 {
+    color: black;
+}
+
+.btn-custom {
+    background-color: #e31d6b;
+    color: #fff;
+    font-weight: bold;
+}
+
+.btn-custom:hover {
+    background-color: #b40045;
+}
+
+.link-custom {
+    color: #e31d6b;
+    font-weight: 600;
+}
+
+.nav-link {
+    color: #000;
+}
+
+.nav-link:hover {
+    color: #e31d6b;
+}
+
+.igga {
+    background-image: url("ess.png");
+    background-size: 80%;
+    background-position: center; /* Mantén la imagen en la parte superior */
+    background-repeat: no-repeat; 
+    color: white;
+    border-bottom-style: solid;
+}
+
+.card {
+    background-color: #e31d6b; /* Fondo semi-transparente para la tarjeta */
+    color: white; /* Color del texto en la tarjeta */
+    padding: 20px; /* Espaciado interno */
+}
+
+h5 {
+    color: black;
+}
+.btn-custom {
+background-color: #e31d6b;
+color: #fff;
+font-weight: bold;
+}
+.btn-custom:hover {
+background-color: #b40045; /* Granate más oscuro */
+}
+.link-custom {
+color: #e31d6b;
+font-weight: 600;
+}
+.nav-link {
+color: #000; /* Cambiar color de los links del header a negro */
+}
+.nav-link:hover {
+color: #e31d6b; /* Cambiar color al pasar el mouse */
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+    overflow-y: hidden;
+  }
+  .btn-custom {
+    background-color: #e31d6b;
+    color: #fff;
+    font-weight: bold;
+  }
+  .btn-custom:hover {
+    background-color: #b40045; /* Granate más oscuro */
+  }
+  .link-custom {
+    color: #e31d6b;
+    font-weight: 600;
+  }
+  .nav-link {
+    color: #000; /* Cambiar color de los links del header a negro */
+  }
+  .nav-link:hover {
+    color: #e31d6b; /* Cambiar color al pasar el mouse */
+  }
